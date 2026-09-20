@@ -42,3 +42,6 @@ def test_mask_email_basic():
 
     # Assert
     assert result == "pr***@example.com"
+
+
+
